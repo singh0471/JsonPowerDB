@@ -1,0 +1,10 @@
+{
+    "token": "90931303|-31949328275640657|90961142",
+    "cmd": "REMOVE",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    
+        "record": 1
+        
+    
+}
