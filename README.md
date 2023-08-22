@@ -1,10 +1,12 @@
-STUDEMT ENROLLMENT FORM
+STUDEMT ENROLLMENT FORM                                                                                                                                  
+
 It is a student registration form that stores the user's data in JSONPowerDB (javascript object notation). It supports REST APIs and serverless technology. 
 Students can be added, updated based on their roll number. In this form, the roll number is automatically checked and by the help of API, the data entered 
 into other input fields sothat the user can update accordingly. The application uses AJAX requests for smooth and fast interaction. All kinds of data can be
 stored, such as numbers, strings, dates, etc.and this form includes information like roll number , full name , class, birth date , address, enrollment date.
 
-What is JSON ?
+What is JSON ?                                                                           
+
 JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, 
 Real-time Database. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
 Whether it's a Dynamic Website or a Mobile App or some Data Analytics Portal, the development is real fun and fast. Nothing better than trying it yourself. What all
