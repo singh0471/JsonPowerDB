@@ -1,0 +1,10 @@
+{
+    "token": "90931303|-31949328275640657|90961142",
+    "cmd": "GET",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "jsonStr": {
+        "id": "1",
+        
+    }
+}
