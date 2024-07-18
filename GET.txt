@@ -3,7 +3,7 @@
     "cmd": "GET",
     "dbName": "Student",
     "rel": "Student-Rel",
-    "jsonStr": {
+    "jsonStr": { 
         "id": "1",
         
     }
