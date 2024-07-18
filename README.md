@@ -1,4 +1,4 @@
-STUDEMT ENROLLMENT FORM                                                                                                                                  
+STUDEMT ENROLLMENT FORM                                                                                                                                   
 
 It is a student registration form that stores the user's data in JSONPowerDB (javascript object notation). It supports REST APIs and serverless technology. 
 Students can be added, updated based on their roll number. In this form, the roll number is automatically checked and by the help of API, the data entered 
