@@ -8,7 +8,7 @@ function resetForm() {
     $("#cls").val('');
     $("#dob").val('');
     $("#addr").val('');
-    $("#doe").val('');
+    $("#doe").val(''); 
 }
 
 function disableAll() {
